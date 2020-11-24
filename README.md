@@ -9,7 +9,7 @@ Create a 2D game project in Unity. Download those files and import into your gam
 ### Prerequisites
 
 If you don't have [Unity](https://unity3d.com/get-unity/download), just download. 
-[x](https://www.dunyaatlasi.com/wp-content/uploads/2018/09/resim-tablo-nasil-okunur.jpg)
+[!Dialog](https://www.dunyaatlasi.com/wp-content/uploads/2018/09/resim-tablo-nasil-okunur.jpg)
 ## Running the tests
 
 You can play the game in sample scene in Unity.
